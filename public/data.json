@@ -1,0 +1,50 @@
+[
+    {
+        "id": 101,
+        "image" : "https://i.ibb.co/kHq4zh2/bd1.jpg",
+         "country": " bangladesh ",
+        "description": "bangladesh muslim are doing eid after 30 days ramadan, and pray namaz"
+        
+    
+    },
+    {
+        "id": 102,
+        "image" : "https://i.ibb.co/3rXXky6/pak2.png",
+        "country": " pakistan ",
+        "description": "pakistan muslim are doing eid after 30 days ramadan, and pray namaz"
+        
+      
+    },
+    {
+        "id": 103,
+        "image" : "https://i.ibb.co/kX11JGy/palestine3.jpg",
+        "country": " palestine ",
+        "description": "palestine muslim are doing eid after 30 days ramadan, and pray namaz"
+        
+   
+    },
+    {
+        "id": 104,
+        "image" : "https://i.ibb.co/rwyJDDn/saudi4.jpg",
+        "country": " saudi arabia ",
+        "description": "saudi muslim are doing eid after 30 days ramadan, and pray namaz"
+        
+      
+    },
+    {
+        "id": 105,
+        "image" : "https://i.ibb.co/DCHzmR7/india5.jpg",
+        "country": " india ",
+        "description": "india muslim are doing eid after 30 days ramadan, and pray namaz"
+        
+    },
+    {
+        "id": 106,
+        "image" : "https://i.ibb.co/7S6v8dG/qatar6.webp",
+        "country": " qatar ",
+        "description": "qatar muslim are doing eid after 30 days ramadan, and pray namaz"
+        
+    }
+   
+  ]
+  
